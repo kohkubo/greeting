@@ -19,7 +19,3 @@ func greeting() string {
 		return "おやすみ"
 	}
 }
-
-func main() {
-	fmt.Println(greeting())
-}
