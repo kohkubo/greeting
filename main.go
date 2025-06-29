@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-func greeting() string {
+func Do() string {
 	hour := time.Now().Hour()
 
 	switch {
